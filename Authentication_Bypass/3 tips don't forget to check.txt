@@ -1,0 +1,13 @@
+Tip 1.
+Use a valid verification code 2nd time, sometime it works!
+
+Tip2.
+Enter a random code, modify the request from Burp and send blank or null code.
+
+Tip 3.
+Check the request with 2FA, change conditions like,
+			"mode":"sms" by "mode":"email"
+			"secureLogin":true by "secureLogin":false
+      
+      
+@thejulfikar
